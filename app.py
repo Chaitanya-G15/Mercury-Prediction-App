@@ -81,7 +81,8 @@ html, body, [class*="css"] {
     font-weight: 700;
     color: #E2ECF5;
     letter-spacing: -0.5px;
-    line-height: 1;
+    line-height: 2;
+    padding-top: 4px;
     margin-bottom: 2px;
 }
 
